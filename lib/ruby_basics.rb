@@ -11,12 +11,12 @@ def argue(turn)
   return turn
 end
 
-def greeting
+def greeting(gretting,name)
 
 end
 
 def return_a_value
-
+  return "Nice"
 end
 
 def last_evaluated_value
