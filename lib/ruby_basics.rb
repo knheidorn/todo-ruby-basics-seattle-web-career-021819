@@ -3,11 +3,12 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  
+  puts ref = "#{value}"
+  return ref
 end
 
-def argue
-  
+def argue(turn)
+  return turn
 end
 
 def greeting
