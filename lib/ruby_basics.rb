@@ -11,8 +11,8 @@ def argue(turn)
   return turn
 end
 
-def greeting(gretting,name)
-
+def greeting(saying,name)
+  "#{saying}, #{name}."
 end
 
 def return_a_value
@@ -20,7 +20,8 @@ def return_a_value
 end
 
 def last_evaluated_value
-
+  pup = "Rafa"
+  return "Last item."
 end
 
 def pizza_party
