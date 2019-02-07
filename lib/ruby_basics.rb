@@ -21,7 +21,7 @@ end
 
 def last_evaluated_value
   pup = "Rafa"
-  return "Last item."
+  return "expert"
 end
 
 def pizza_party
